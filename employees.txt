@@ -1,0 +1,24 @@
+Иван Петров,50000,6500,ivan@company.com,Go разработчик
+Мария Сидорова,45000,5850,maria@company.com,Аналитик данных
+Алексей Иванов,42000,5460,alex@company.com,
+Ольга Кузнецова,48000,6240,,Тестировщик
+Дмитрий Смирнов,38000,4940,dmitry@company.com,не указано
+Елена Попова,52000,6760,elena@company.com,Project Manager
+Сергей Васильев,35000,4550,,DevOps инженер
+Анна Федорова,47000,6110,anna@company.com,Python разработчик
+Михаил Орлов,55000,7150,mikhail@company.com,Java разработчик
+Татьяна Николаева,41000,5330,tatiana@company.com,Дизайнер
+Павел Захаров,33000,4290,,Frontend разработчик
+Юлия Ковалева,49000,6370,yulia@company.com,нет
+Андрей Григорьев,44000,5720,andrey@company.com,Аналитик
+Ирина Соколова,51000,6630,irina@company.com,Менеджер проектов
+Роман Белов,36000,4680,roman@company.com,
+Виктор Морозов,39000,5070,viktor@company.com,Тестировщик
+Наталья Воробьева,53000,6890,natalya@company.com,-
+Кирилл Новиков,34000,4420,kirill@company.com,Backend разработчик
+Светлана Фомина,46000,5980,,Product Manager
+Артем Лебедев,37000,4810,artem@company.com,отсутствует
+Екатерина Семенова,54000,7020,ekaterina@company.com,Data Scientist
+Максим Егоров,32440,1000,maxim@company.com,DevOps
+Лариса Дмитриева,43000,5590,larisa@company.com,BA
+
